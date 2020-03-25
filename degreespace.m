@@ -4,6 +4,7 @@
 %       M : Adjacency matrix of the network  
 %   Outputs:
 %       x_eff : x_eff of all species
+% Copyright: Mengkai Xu
 %
 %r0 = 1; % Equation [2]
 FN = ones(1,1);
