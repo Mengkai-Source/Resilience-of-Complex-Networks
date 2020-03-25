@@ -12,6 +12,8 @@ function FM = M_system(t,x,A)
 %       P : Adjacency matrix of the network    Plant  - Animal
 %   Outputs:
 %       FM : the derivative of state x (x+y row, 1 column)
+
+% Copyright: Mengkai Xu
 %---Parameters for mutualistic dynamics-----------
 alpha = 0.3; s = 0.4; h = 0.5; 
 %% ---Parameters for competition dynamics-----------
