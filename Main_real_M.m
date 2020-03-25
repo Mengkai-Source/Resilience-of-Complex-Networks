@@ -18,6 +18,7 @@ function Main_real_M
 %                    M is equal to the length of fraction_reduce,
 %                    N = 6 for mutualistic dynamic,
 %
+% Copyright: Mengkai Xu
 clear;
 clc;
 alpha = 0.3; s = 0.4; h = 0.8;ts = 0.5; %alpha = 0.3,h = 0.8
